@@ -1,0 +1,14 @@
+User-agent: Yandex
+Allow: /
+
+User-agent: Yandex
+Disallow: /cgi-bin/
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot
+Disallow: /cgi-bin/
+
+User-agent: *
+Disallow: /cgi-bin
